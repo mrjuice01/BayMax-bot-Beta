@@ -14,7 +14,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot.visitor-badge&left_text=Total%20Repo%20Visits">
 <a href="https://github.com/mrjuice01"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
  <a href="https://github.com/mrjuice01/DarkJuice"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
-<a href="https://github.com/mrjuice01"><img title="GitHub version" src="https://img.shields.io/github/license/Bhaviktutorials/T-Remix?color=Brightgree" ></a>
+<a href="https://github.com/mrjuice01"><img title="GitHub version" src="https://img.shields.io/github/license/MrJuice/T-Remix?color=Brightgree" ></a>
  <a href="http://t.me/HackersBot_2022bot"><img alt="Telegram bot" src="https://img.shields.io/badge/Telegram-Bhavik Tutorials-green"/></a>
  <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
  <a href="https://github.com/mrjuice01"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
