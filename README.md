@@ -1,6 +1,6 @@
 <h1 align="center"> 🐤 Hello Brother Check out BayMax-Bot-Beta
 <div align="center">
-<a href="https://github.com/Chey-san/"><img src="https://tenor.com/bN33q.gif"
+<a href="https://github.com/mrjuice01/"><img src="https://github.com/mrjuice01.png?size=100"
 " alt="chitoge" border="0"></a>
 
 🐤**BayMax: A WhatsApp Bot Made by Mr Juice Based <a href="https://github.com/FantoX001/Miku-MD">MIKU</er></a></h1>**
