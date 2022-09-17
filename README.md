@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Chey-san/Marin-Kitagawa-MD-Bot">
+  <a href="https://github.com/mrjuice01/BayMax-bot-Beta">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
@@ -25,8 +25,8 @@
 ### ✧✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy.    
 </br>
 ## ✧✧ Deoloy Video tutorial:
-- Here's the [video tutorial](https://youtu.be/fZdM7Ahb4JE) on how to deploy and host marin katagawa bot.
-- [Video Guide](https://youtu.be/fZdM7Ahb4JE)
+- Here's the [video tutorial] https://youtu.be/fZdM7Ahb4JE on how to deploy and host BayMax Bot.
+- [Video Guide] https://youtu.be/fZdM7Ahb4JE
 
 ## Heroku Deployment Method 1:
 
