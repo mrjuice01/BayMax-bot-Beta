@@ -25,8 +25,8 @@
 ### ✧✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy.    
 </br>
 ## ✧✧ Deoloy Video tutorial:
-- Here's the [video tutorial] https://youtu.be/fZdM7Ahb4JE on how to deploy and host BayMax Bot.
-- [Video Guide] https://youtu.be/fZdM7Ahb4JE
+- Here's the [video tutorial] http://t.me/HackersBot_2022bot on how to deploy and host BayMax Bot.
+- [Video Guide] http://t.me/HackersBot_2022bot
 
 ## Heroku Deployment Method 1:
 
@@ -34,7 +34,7 @@
 #### ✧ Click this scan button below and scan the given QR within 10 seconds from your WhatsApp. 
 <a href="https://shikimoriqr.herokuapp.com/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="100" />
 </a>
-#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/Chey-san/Marin-Kitagawa-MD-Bot).
+#### ✧ Next download that `session.json` file and replace it with the older one present the hompage of your [`Fork`](https://github.com/mrjuice01/BayMax-bot-Beta).
 
 #### ✧ After that edit the `README.md` file and change the template link present on line no:`39` with your forked repo link.(Example: `https://github.com/<your GitHub username>/Marin-Kitagawa-MD-Bot`)
 
@@ -50,7 +50,7 @@
 #### ✧ Go to your `Heroku` account.
 #### ✧ Create a `random app` in Heroku with any name.
 #### ✧ Connect your `GitHub` with `Heroku`
-#### ✧ Then connect `Marin's repo` from your GitHub.
+#### ✧ Then connect `BayMax's repo` from your GitHub.
 #### ✧ Go to Heroku's `settings` ----> `Add Buildpacks` then connect these 3 buildpacks one by one mentionned    below.
 #### ✧ Then come back to `Heroku` ----> `Deploy` then deploy the app
 #### ✧ After deploy is finished goto `Heroku` ----> `Resources` and turn on the switch.
@@ -72,12 +72,12 @@ heroku/nodejs
 
 
 
-## want to watch some 18+ stuff join my HENTAI group 
+## Support Us By Joining BayMax Bot Support Group 
 
 <a href="https://chat.whatsapp.com/LU1AgpjfN5xAoZEOrKBs0d"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## Physical Deployment Method ( Untested! )
+## Physical Deployment Method ( Using Termux )
 ```js
 apt update
 apt upgrade
@@ -89,8 +89,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Chey-san/Marin-Kitagawa-MD-Bot
-cd  Marin-Kitagawa-MD-Bot
+git clone https://github.com/mrjuice01/BayMax-bot-Beta
+cd  BayMax-bot-Beta
 npm start
 ```
 
@@ -98,7 +98,7 @@ npm start
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
 - And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/Chey-san/#follow) me on GitHub to show some appreciation.
+- Please at least [`Follow`](https://github.com/mrjuice01/#follow) me on GitHub to show some appreciation.
    
    
 ## Reminder:
@@ -114,7 +114,7 @@ npm start
 
 
 ## Help:
-- [`Follow`](https://github.com/Chey-san/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/mrjuice01/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
