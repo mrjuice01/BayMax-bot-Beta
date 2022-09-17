@@ -40,7 +40,7 @@
 
 #### ✧ Next
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrjuice01/BayMax-bot-Beta)
 
 
 ## Heroku Deployment Method 2:
@@ -74,7 +74,7 @@ heroku/nodejs
 
 ## Support Us By Joining BayMax Bot Support Group 
 
-<a href="https://chat.whatsapp.com/LU1AgpjfN5xAoZEOrKBs0d"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/C5D6zr2NFQGC1UCAlgFlqY"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ## Physical Deployment Method ( Using Termux )
