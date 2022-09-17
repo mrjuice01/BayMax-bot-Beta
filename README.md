@@ -1,6 +1,6 @@
 <h1 align="center"> 🐤 Hello Brother Check out BayMax-Bot-Beta
 <div align="center">
-<a href="https://github.com/mrjuice01/"><img src="https://github.com/mrjuice01.png?size=100"
+<a href="https://github.com/mrjuice01/"><img src="https://github.com/mrjuice01.png"
 " alt="chitoge" border="0"></a>
 
 🐤**BayMax: A WhatsApp Bot Made by Mr Juice Based <a href="https://github.com/FantoX001/Miku-MD">MIKU</er></a></h1>**
@@ -14,13 +14,15 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/Chey-san">
+<a href="https://github.com/mrjuice01">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/Chey-san/Marin-Kitagawa-MD-Bot.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
      </br>  
      
-### ✧✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy(Trust me☺️✨).    
+  
+### Give me a credit Before you edit
+### ✧✧ Use `Heroku Deploy Method 2` for easy and more convenient deploy.    
 </br>
 ## ✧✧ Deoloy Video tutorial:
 - Here's the [video tutorial](https://youtu.be/fZdM7Ahb4JE) on how to deploy and host marin katagawa bot.
