@@ -1,5 +1,7 @@
 <h1 align="center"> 🐤 Hello Brother Check out BayMax-Bot-Beta
 <div align="center">
+![hello-baymax](https://user-images.githubusercontent.com/100421286/191129688-a9f09f22-7758-48c0-9f6f-450b8e9481ef.gif)
+
 <a href="https://github.com/mrjuice01/"><img src="https://github.com/mrjuice01.png"
 " alt="chitoge" border="0"></a>
 
